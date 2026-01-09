@@ -5,10 +5,9 @@
 **Blockchain Smart Contract Engineer**
 
 Building secure DeFi protocols with Solidity & Foundry  
-Currently preparing for Dunamu (두나무) Blockchain Engineer role
+Currently preparing for Blockchain Engineer role
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:your-email)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:2haneum@gmail.com)
 
 </div>
 
