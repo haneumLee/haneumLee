@@ -41,15 +41,15 @@ Working on **[Blockchain Security Platform](https://github.com/yourusername/bloc
 
 ## 📌 Featured Projects
 
-### [Blockchain Security Platform](https://github.com/yourusername/blockchain-security-platform) ⭐
+### Blockchain Security Platform
 > Comprehensive DeFi exploit analysis + Go-based vulnerability scanner
 
 - 5 major DeFi hack cases (The DAO, Cream Finance, Poly Network, ...)
 - Automated security scanner detecting 6+ vulnerability patterns
 - Foundry test coverage 95%+
 
-### [WeSharing - DID Platform](link) 🔗
-> Production blockchain service for Incheon City (6 months at Osrium)
+### WeSharing - Platform
+> Production blockchain service for Incheon City (6 months at Authrium)
 
 - Solidity smart contracts (1,085 lines)
 - NestJS backend + Hyperledger Besu network
@@ -59,11 +59,11 @@ Working on **[Blockchain Security Platform](https://github.com/yourusername/bloc
 
 ## 🎓 Background
 
-**Blockchain Engineer** @ Osrium (2025.07 - Present)  
+**Blockchain Engineer** @ Authrium (2025.07 - 2025.12)  
 Smart contract development, DID platform, Off-chain backend
 
-**AI/Data Coach** @ Dataone Company (2023.07 - 2024.12)  
-Coached 100+ Samsung engineers on ML projects
+**AI/Data Coach** @ Day1Company (2023.07 - 2024.12)  
+Coached 1000+ Samsung engineers on ML projects
 
 ---
 
@@ -71,8 +71,8 @@ Coached 100+ Samsung engineers on ML projects
 
 - 💼 Open to: Blockchain Engineer opportunities
 - 🎯 Target: DeFi protocols, Smart contract security
-- 📧 Email: your-email@example.com
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](link)
+- 📧 Email: 2haneum@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/haneum-lee-39080727b/]([link](https://www.linkedin.com/in/haneum-lee-39080727b/))
 
 ---
 
