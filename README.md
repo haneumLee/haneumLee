@@ -72,13 +72,11 @@ Coached 1000+ Samsung engineers on ML projects
 - 💼 Open to: Blockchain Engineer opportunities
 - 🎯 Target: DeFi protocols, Smart contract security
 - 📧 Email: 2haneum@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/haneum-lee-39080727b/]([link](https://www.linkedin.com/in/haneum-lee-39080727b/))
+- 🔗 LinkedIn: [linkedin.com/in/haneum-lee-39080727b/](https://www.linkedin.com/in/haneum-lee-39080727b/)
 
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leehaneum&show_icons=true&theme=dark&hide=stars,issues)
 
 *Building trustless systems, one smart contract at a time* 🔐
 
