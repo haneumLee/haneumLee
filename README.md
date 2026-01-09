@@ -1,60 +1,86 @@
-<div align=center>
-      <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=LEE%20HanEum&fontSize=90&fontColor=024cc4" />
+<div align="center">
+
+# 👋 LEE HanEum
+
+**Blockchain Smart Contract Engineer**
+
+Building secure DeFi protocols with Solidity & Foundry  
+Currently preparing for Dunamu (두나무) Blockchain Engineer role
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:your-email)
+
 </div>
 
-<hr>
+---
 
-### 💪Skills
-<div align=center>
- 
-<h3>Platforms & Languages</h3>
- 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+## 🚀 Current Focus
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+Working on **[Blockchain Security Platform](https://github.com/yourusername/blockchain-security-platform)** - analyzing real DeFi exploits and building automated vulnerability scanner
+```
+🔐 DeFi Exploit Analysis    ████████░░ 80%
+🔍 Go Security Scanner      ██████░░░░ 60%
+💱 Mini DEX (Uniswap Clone) ████░░░░░░ 40%
+```
 
- <br>
- 
-<h3>Tools</h3>
+**Recent Activity**: Implementing The DAO reentrancy attack (vulnerable + secure versions) with Foundry tests
 
- 
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+
+**Blockchain**  
+`Solidity 0.8.x` `Foundry` `Hardhat` `OpenZeppelin` `Ethers.js`
+
+**Backend**  
+`Go` `TypeScript` `NestJS` `PostgreSQL`
+
+**Infrastructure**  
+`Docker` `Kubernetes` `Hyperledger Besu`
+
+---
+
+## 📌 Featured Projects
+
+### [Blockchain Security Platform](https://github.com/yourusername/blockchain-security-platform) ⭐
+> Comprehensive DeFi exploit analysis + Go-based vulnerability scanner
+
+- 5 major DeFi hack cases (The DAO, Cream Finance, Poly Network, ...)
+- Automated security scanner detecting 6+ vulnerability patterns
+- Foundry test coverage 95%+
+
+### [WeSharing - DID Platform](link) 🔗
+> Production blockchain service for Incheon City (6 months at Osrium)
+
+- Solidity smart contracts (1,085 lines)
+- NestJS backend + Hyperledger Besu network
+- Real credential issuance 1,000+ on-chain
+
+---
+
+## 🎓 Background
+
+**Blockchain Engineer** @ Osrium (2025.07 - Present)  
+Smart contract development, DID platform, Off-chain backend
+
+**AI/Data Coach** @ Dataone Company (2023.07 - 2024.12)  
+Coached 100+ Samsung engineers on ML projects
+
+---
+
+## 📫 Let's Connect
+
+- 💼 Open to: Blockchain Engineer opportunities
+- 🎯 Target: DeFi protocols, Smart contract security
+- 📧 Email: your-email@example.com
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](link)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leehaneum&show_icons=true&theme=dark&hide=stars,issues)
+
+*Building trustless systems, one smart contract at a time* 🔐
+
 </div>
-<hr>
-
-### :mailbox_with_mail: Contacts
-<div align=center>
- 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:kimsh1691@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com)
- 
-</div>
-
-<hr>
-
-### ➕Adds
-<div align=center>
- <h3>Baekjoon Rank</h3>
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2haneum">
- 
- <br><br>
-
- <h3>GitHub Status <a href="https://www.github.com/haneumLee"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/haneumLee%2Fgjbae1212%2Fhit-counter&count_bg=%231F4701&title_bg=%230FBB02&icon=&icon_color=%23B67F7F&title=Hits&edge_flat=false"/></a></h3>
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneumLee&layout=compact"><br><br>
- <img src="https://github-readme-stats.vercel.app/api?username=haneumLee&show_icons=true">
-</div>
-
-<h1 align=center>Thank You!</h1>
